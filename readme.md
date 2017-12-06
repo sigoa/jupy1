@@ -1,4 +1,4 @@
-![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sigoa/jupy1.git/master)
+![Binder]  <https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sigoa/jupy1.git/master>
 
 Jupyter notebook
 
@@ -10,3 +10,6 @@ Jupyter notebook
 
 - [x] works
 - [ ] sucks
+
+[![Binder](https://mybinder.org/badge.svg)]
+
