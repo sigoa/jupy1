@@ -1,4 +1,4 @@
-  <https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sigoa/jupy1.git/master>
+  <https://mybinder.org/v2/gh/sigoa/jupy1.git/master>
 
 Jupyter notebook
 
