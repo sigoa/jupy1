@@ -12,4 +12,4 @@ Jupyter notebook
 - [ ] sucks
 
 ![Binder](https://mybinder.org/badge.svg)
-
+[![tip for next commit](https://tip4commit.com/projects/827.svg)](https://tip4commit.com/github/sigoa/jupy1)
